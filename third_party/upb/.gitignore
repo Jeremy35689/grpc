@@ -1,4 +1,0 @@
-*.sw?
-obj/
-lib/
-bazel-*
